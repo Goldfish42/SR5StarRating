@@ -12,7 +12,7 @@ A long time ago, I made it my personal goal to play every custom song available 
 
 Eventually, I wanted to distinguish between how much I enjoyed these maps on a variable scale, so I started adding asterisks to differentiate them.  Occasionally, I encountered maps that were challenging in a fun way, but not necessarily up to the quality that I had been rating songs by up to that point.  So I started adding exclamations to denote the physical challenge of the maps.
 
-I found that these two scales were really gave me everything I wanted to know about a map.  The first scale informed me as to how much fun & enjoyment I would get from playing the map, and the second scale would inform me if it would be physically easy or challenging.
+I found that these two scales really gave me everything I wanted to know about a map.  The first scale informed me as to how much fun & enjoyment I would get from playing the map, and the second scale would inform me if it would be physically easy or challenging.
 
 Some folks have pointed out that my ratings seem to overlap in spirit with the 4-category 5-star song review system on SynthRiderz.  After studying and attempting to incorporate those 4 categories into my rating system, I found that it was too difficult to keep track of my ratings for many songs, and it detracted from my overall game experience.  Ultimately, I believe that review system is intended for a different purpose: to inform mappers directly of players' opinions.  On the other hand, my rating system is intended to remind players of their own opinions, assuming you don't have an eidetic or photographic memory.  They don't call me Goldfish for nothing =)
 
